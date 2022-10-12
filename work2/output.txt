@@ -1,0 +1,5 @@
+total months: 86
+average change: 446309.05
+total net: 38382578
+net change: 532869
+prev net: 671099
